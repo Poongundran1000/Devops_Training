@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name:Self-hosted
+  name: Self-hosted
 
 steps:
 - script: echo Hello, world!
